@@ -53,3 +53,5 @@ defmodule ShortestPath do
   end
 end
 
+ShortestPath.path
+|> IO.inspect
